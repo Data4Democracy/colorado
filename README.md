@@ -1,7 +1,7 @@
 # colorado
 Highlighting local code &amp; projects from the Denver-Boulder area.
 
-**Slack:** 
+**Slack:**
 [#city-boulder](http://datafordemocracy.slack.com/messages/city-boulder)
 [#city-denver](http://datafordemocracy.slack.com/messages/city-denver)
 
@@ -15,6 +15,6 @@ To join, just say hi in Slack after general [D4D onboarding](https://github.com/
 
 # On-Going Project Descriptions
 
-* **Increasing Access and Assessing Impact of Oil & Gas Development:** Text/.pdf scraping and machine learning for AirWaterGas (airwatergas.org), an unbiased public resource aggregating and organizing public oil & gas / fracking regulatory data. 
+* **Increasing Access and Assessing Impact of Oil & Gas Development:** Text/.pdf scraping and machine learning for AirWaterGas (airwatergas.org), an unbiased public resource aggregating and organizing public oil & gas / fracking regulatory data.
 * **Evaluating Representation in City of Boulder City Council Meetings:** Using city council agendas and speakers, we aim to assess whether different neighborhoods/demographics equally represented in their communication with city officials.
-
+* **Investigating Residential Teardowns in Denver Neighborhoods:** Using building permit information scraped from the Denver government website to access the locations and number of Residential Teardowns followed by New Construction which can heavily influence housing prices in the Denver area.
