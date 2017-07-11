@@ -8,7 +8,7 @@ Highlighting local code &amp; projects from the Denver-Boulder area.
 **Project Co-Leads:**
 [@sam](https://datafordemocracy.slack.com/messages/@sam/)
 [@gretchenriggs](https://datafordemocracy.slack.com/messages/@gretchenriggs/)
-
+[@chooliu](https://datafordemocracy.slack.com/messages/@chooliu/)
 # Getting Started
 
 To join, just say hi in Slack after general [D4D onboarding](https://github.com/Data4Democracy/read-this-first) or message one of the leads on Github.
