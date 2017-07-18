@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "\n\nfile\nunzip(\"data/CityOfDenverHousingPermits_2015-2017.zip\", \"data/CityOfDenverHousingPermits_2015-2017.csv\")\n\n\nextract.zip(file, extractpath = dirname(file)[1])\n\ndata15_17 <- ",
+    "created" : 1498511474868.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2163236215",
+    "id" : "7DEB42E4",
+    "lastKnownWriteTime" : 1498512036,
+    "last_content_update" : 1498512036737,
+    "path" : "~/PROJECTS/D4D/colorado/denver_teardowns/02_create_dataset_for_geocoding.R",
+    "project_path" : "02_create_dataset_for_geocoding.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
