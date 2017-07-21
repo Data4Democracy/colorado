@@ -6,7 +6,7 @@ Highlighting local Data for Democracy code &amp; projects from the Denver & Boul
 Data for Democracy is a volunteer organized and driven community interested in data science projects for social justice.
 If you're new to Data for Democracy, we recommend looking at the projects featured on [datafordemocracy.org](http://datafordemocracy.org/projects.html) to see what D4D members are doing on a national level.
 
-The Denver (and Boulder) chapters are interested in developing local projects and making community connections in Colorado.
+The Denver and Boulder chapters are interested in developing local projects and making community connections in Colorado.
 
 (Have an idea / a dataset? We'd love to hear about it!)
 
@@ -14,7 +14,9 @@ The Denver (and Boulder) chapters are interested in developing local projects an
 
 Don't be shy -- we welcome folks of all technical levels / backgrounds.
 
-We have a brand new [meetup.com page](https://www.meetup.com/Data-for-Democracy-Denver/) that will be kept updated for in-person meeting dates at Galvanize-Platte for Denver meetups (and The Cup for Boulder meetups).
+We have a brand new [denver_meetup.com page](https://www.meetup.com/Data-for-Democracy-Denver/) that will be kept up-to-date for in-person meeting dates at Galvanize-Platte
+
+A Boulder meetup group is in the works, with meetings to be held at The Cup.
 
 However, most active discussion of projects in between meetups happens on Slack, a team collaboration / communication tool.
 
