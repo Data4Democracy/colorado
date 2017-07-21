@@ -8,15 +8,17 @@ If you're new to Data for Democracy, we recommend looking at the projects featur
 
 The Denver and Boulder chapters are interested in developing local projects and making community connections in Colorado.
 
-(Have an idea / a dataset? We'd love to hear it!)
+(Have an idea / a dataset? We'd love to hear about it!)
 
 # Getting Started
 
 Don't be shy -- we welcome folks of all technical levels / backgrounds.
 
-We have a brand new [meetup.com page](https://www.meetup.com/Data-for-Democracy-Denver-Boulder/) that will be kept updated for in-person meeting dates (tentatively at Galvanize Platte for Denver meetups & The Cup for Boulder meet-ups).
+We have a brand new [denver meetup.com page](https://www.meetup.com/Data-for-Democracy-Denver/) that will be kept up-to-date for in-person meetings at Galvanize-Platte
 
-However, most active discussion of projects in between meet ups happens on Slack, a team collaboration / communication tool.
+A Boulder meetup group is in the works, with meetings to be held at The Cup.
+
+However, most active discussion of projects in between meetups happens on Slack, a team collaboration / communication tool.
 
 To join Slack, you can either follow the [D4D onboarding](https://github.com/Data4Democracy/read-this-first) instructions, or message one of the leads on Github for an invite (see next section). Then, join the [#city-boulder](http://datafordemocracy.slack.com/messages/city-boulder)
 and [#city-denver](http://datafordemocracy.slack.com/messages/city-denver) channels. Alternatively, another member can invite you during one of our meetups.
