@@ -9,5 +9,7 @@
 Inspiration for this Code of Conduct comes from the fantastic folks of the [Code for Denver](https://github.com/codefordenver/codeofconduct), the [Data for Democracy Hackathon CoC](http://datafordemocracy.org/hackathon_coc.html), the [Spatial Community](https://github.com/TheSpatialCommunity/documents/blob/master/COC.md), and the [Recurse Center](https://www.recurse.com/manual#sub-sec-social-rules).
 
 Data for Democracy Boulder/Denver
+
 @gretchenriggs, @chooliu, @samzhang111
+
 Version 1.0, 21 July 2017
