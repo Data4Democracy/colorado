@@ -14,7 +14,7 @@ The Denver and Boulder chapters are interested in developing local projects and 
 
 Don't be shy -- we welcome folks of all technical levels / backgrounds.
 
-We have a brand new [denver_meetup.com page](https://www.meetup.com/Data-for-Democracy-Denver/) that will be kept up-to-date for in-person meeting dates at Galvanize-Platte
+We have a brand new [denver meetup.com page](https://www.meetup.com/Data-for-Democracy-Denver/) that will be kept up-to-date for in-person meeting dates at Galvanize-Platte
 
 A Boulder meetup group is in the works, with meetings to be held at The Cup.
 
