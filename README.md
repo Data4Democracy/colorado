@@ -25,7 +25,7 @@ We have a brand new [Denver meetup.com page](https://www.meetup.com/Data-for-Dem
 However, most active discussion of projects in between meetups happens on Slack, a team collaboration / chat tool.
 
 To join Slack, you can either follow the [D4D onboarding](https://github.com/Data4Democracy/read-this-first) instructions, message one of the leads on Github for an invite (see next section), or as for an invite during an in-person meetup. Then, join the [#city-boulder](http://datafordemocracy.slack.com/messages/city-boulder)
-and [#city-denver](http://datafordemocracy.slack.com/messages/city-denver) channels.
+and [#city-denver](http://datafordemocracy.slack.com/messages/city-denver) channels and introduce yourself!
 
 # City Co-Leads
 
