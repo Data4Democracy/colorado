@@ -78,4 +78,4 @@ for col in df.columns:
     df[col].str.encode('utf-8')
 
 # Output DataFrame to csv file
-df.to_csv('older_well_permits.csv')
+df.to_csv('data/older_well_permits.csv')
