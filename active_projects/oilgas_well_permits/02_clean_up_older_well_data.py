@@ -14,9 +14,14 @@ def cleanup(df):
                                            .str.split("    ", 1)\
                                            .str
     df['field_num'] = df['field_num'].str.strip()
+
+    # Splitting location into 2 columns for county &
+    #    coord.  Stripping spaces from start/end of coord
     df['county'], df['coord'] = df['location']\
                                    .str.split("    ", 1)\
                                    .str
+    df['coord'] = df['coord'].str.strip()
+
     # Splitting operator_name_num into 2 columns for operator_name &
     #    operator_num.  Stripping spaces from start/end of field_num
     df['operator_name'], df['operator_num'] = df['operator_name_num']\
@@ -30,9 +35,15 @@ def cleanup(df):
                                      .str.replace("XX","")\
                                      .str.decode('utf-8'))
 
-    # Dropping the original combined columns from the DataFrame
-    df.drop(['facility_name_num', 'field_name_num', 'operator_name_num'],\
+    # Dropping the original combined columns from the DataFrame & unneeded
+    #    columns
+    df.drop(['facility_name_num', 'field_name_num', 'operator_name_num', \
+             'location'],\
              axis=1, inplace=True)
+    df.drop(['Unnamed: 0', 'related_facilities'], axis=1, inplace=True)
+
+    # Drop any duplicate rows
+    df.drop_duplicates()
 
     return df
 
