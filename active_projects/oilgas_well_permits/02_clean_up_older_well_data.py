@@ -29,11 +29,33 @@ def cleanup(df):
                                                  .str
     df['operator_num'] = df['operator_num'].str.strip()
 
-    # Removing leading X's from the permit status date, and converting from a
-    #    string to utf-8 format
-    df['status'] = pd.to_datetime(df['status']\
-                                     .str.replace("XX","")\
-                                     .str.decode('utf-8'))
+    # Removing leading facility status code letters from the permit status
+    #    date, and converting from a string to utf-8 format
+    df['status'] = df['status'].apply(lambda x: x.decode('utf-8'))\
+                               .str.replace("AB","")\
+                               .str.replace("AC","")\
+                               .str.replace("AL","")\
+                               .str.replace("CL","")\
+                               .str.replace("CM","")\
+                               .str.replace("DA","")\
+                               .str.replace("DG","")\
+                               .str.replace("DM","")\
+                               .str.replace("IJ","")\
+                               .str.replace("PA","")\
+                               .str.replace("pa","")\
+                               .str.replace("PD","")\
+                               .str.replace("PR","")\
+                               .str.replace("RC","")\
+                               .str.replace("SI","")\
+                               .str.replace("SU","")\
+                               .str.replace("TA","")\
+                               .str.replace("WO","")\
+                               .str.replace("XX","")\
+                               .str.replace("N/A","")\
+                               .str.replace(u"\xa0", u"")
+    # Saving a N/A status data value to variable na_status, as a
+    df.loc[df['status'] == u"", "status"] = pd.NaT
+    df['status'] == pd.to_datetime(df['status'])
 
     # Dropping the original combined columns from the DataFrame & unneeded
     #    columns
