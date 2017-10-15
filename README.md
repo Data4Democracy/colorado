@@ -16,16 +16,16 @@ Don't be shy -- we welcome folks of all technical levels / backgrounds intereste
 
 Please read our [Code of Conduct](./CodeOfConduct.md), which describes our lightweight community rules & values to keep meetups and online interactions inclusive and welcoming.
 
-## Meetup.com
-
-We have a brand new [Denver meetup.com page](https://www.meetup.com/Data-for-Democracy-Denver/) that will be kept updated for in-person meeting dates (tentatively at Galvanize Platte for Denver meetups & The Cup for Boulder meet-ups). A Boulder meetup page, as well as a regular meeting schedule are on the to-do list.
-
 ## Slack
 
 However, most active discussion of projects in between meetups happens on Slack, a team collaboration / chat tool.
 
 To join Slack, you can either follow the [D4D onboarding](https://github.com/Data4Democracy/read-this-first) instructions, message one of the leads on Github for an invite (see next section), or as for an invite during an in-person meetup. Then, join the [#city-boulder](http://datafordemocracy.slack.com/messages/city-boulder)
 and [#city-denver](http://datafordemocracy.slack.com/messages/city-denver) channels and introduce yourself!
+
+## Meetup.com
+
+If you're not active on Slack, we keep our [Denver](https://www.meetup.com/Data-for-Democracy-Denver/) & [Boulder](https://www.meetup.com/Data-for-Democracy-Denver/) meetup.com pages updated for in-person meeting dates.
 
 # City Co-Leads
 
@@ -35,7 +35,9 @@ and [#city-denver](http://datafordemocracy.slack.com/messages/city-denver) chann
 
 # Projects
 
-## Partial List of Active Projects
+The channels [#boulder-kgnu](http://datafordemocracy.slack.com/messages/boulder-kgnu), [#boulder_hackathon_og](http://datafordemocracy.slack.com/messages/boulder_hackathon_og), [#well_complaints](http://datafordemocracy.slack.com/messages/well_complaints), and [#p-boulder-homeless](http://datafordemocracy.slack.com/messages/p-boulder-homeless) are Slack channels for other active projects (many of which spun off from our September 2017 hackathon at KGNU!)
+
+## Partial Project Descriptions
 
 * **Increasing Access and Assessing Impact of Oil & Gas Development:** Text/.pdf scraping and machine learning for AirWaterGas (airwatergas.org), an unbiased public resource aggregating and organizing public oil & gas / fracking regulatory data.
 * **Evaluating Representation in City of Boulder City Council Meetings:** Using city council agendas and speakers, we aim to assess whether different neighborhoods/demographics equally represented in their communication with city officials.
